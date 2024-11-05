@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: statuspage
-        image: 992382545251.dkr.ecr.us-east-1.amazonaws.com/statuspage-bop:80-80
+        image: 992382545251.dkr.ecr.us-east-1.amazonaws.com/statuspage-bop:81-81
         ports:
         - containerPort: 8001
         imagePullPolicy: Always
