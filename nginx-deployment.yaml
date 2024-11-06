@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 992382545251.dkr.ecr.us-east-1.amazonaws.com/nginx-bop:85-85
+        image: 992382545251.dkr.ecr.us-east-1.amazonaws.com/nginx-bop:86-86
         ports:
         - containerPort: 80   # Port for HTTP
         - containerPort: 443  # Port for HTTPS
